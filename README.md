@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0048-rotate-image) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
