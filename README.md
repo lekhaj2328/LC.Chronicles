@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0048-rotate-image) |
+| [0441-arranging-coins](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0441-arranging-coins](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
