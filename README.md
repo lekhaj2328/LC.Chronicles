@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
