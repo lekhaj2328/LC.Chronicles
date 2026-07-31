@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
