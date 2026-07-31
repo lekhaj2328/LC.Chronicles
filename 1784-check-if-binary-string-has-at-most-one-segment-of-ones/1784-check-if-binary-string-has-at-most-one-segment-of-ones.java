@@ -9,11 +9,6 @@ class Solution {
                 return false;
             }
         }
-        Arrays.sort(c);
-        if(c[s.length()-1]=='1' && c[s.length()-2]=='0'){
-            return true;
-        }
-        
        return true;
     }
 }
