@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0048-rotate-image) |
 | [0441-arranging-coins](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
