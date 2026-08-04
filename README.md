@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
