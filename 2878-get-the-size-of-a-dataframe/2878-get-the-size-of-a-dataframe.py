@@ -1,9 +1,10 @@
 import pandas as pd
 
 def getDataframeSize(players: pd.DataFrame) -> List[int]:
+    l=players.shape
     lst=[]
-    lst.append(len(players))
-    lst.append(len(players.columns))
+    for n in l:
+        lst.append(n)
     return lst
     
     
