@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0125-valid-palindrome) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3731-find-missing-elements) |
 ## Two Pointers
