@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1260-shift-2d-grid) |
