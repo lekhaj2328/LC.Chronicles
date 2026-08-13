@@ -1,16 +1,18 @@
 class Solution {
-    public void rotate(int[][] matrix) {
-        ArrayList<Integer> l=new ArrayList<>();
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
-                l.add(matrix[i][j]);
+    public void rotate(int[][] m) {
+        for(int i=0;i<m.length;i++){
+            for(int j=i+1;j<m.length;j++){
+                int t=m[i][j];
+                m[i][j]=m[j][i];
+                m[j][i]=t;
             }
         }
-        int ind=0;
-        for(int j=matrix.length-1;j>=0;j--){
-            for(int i=0;i<matrix.length;i++){
-                matrix[i][j]=l.get(ind);
-                ind++;
+        int l=m.length;
+        for(int i=0;i<l;i++){
+            for(int j=0;j<l/2;j++){
+                int t=m[i][j];
+               m[i][j]= m[i][(l-1)-j];
+                m[i][(l-1)-j]=t;
             }
         }
     }
