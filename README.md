@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
