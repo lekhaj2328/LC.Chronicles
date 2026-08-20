@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lekhaj2328/LC.Chronicles/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/lekhaj2328/LC.Chronicles/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
