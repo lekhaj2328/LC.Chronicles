@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lekhaj2328/LC.Chronicles/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lekhaj2328/LC.Chronicles/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lekhaj2328/LC.Chronicles/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lekhaj2328/LC.Chronicles/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
